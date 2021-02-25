@@ -84,3 +84,4 @@ public class FunctionTest {
 
 ### 2.2. 함수와 스택 메모리
 함수가 호출될 때 사용하는 메모리를 스택(stack)이라고 한다. 이것은 함수의 기능 수행이 끝나면 자동으로 해당 함수가 사용했던 메모리 공간을 반환한다.
+<img src = "https://raw.githubusercontent.com/MrKeeplearning/Java-LAB-basic/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/img/java_MethodnStack.png">
