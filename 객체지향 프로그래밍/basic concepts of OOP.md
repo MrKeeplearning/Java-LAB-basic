@@ -1,4 +1,4 @@
-# 객체 지향프로그래밍과 클래스
+# 객체 지향프로그래밍(Object-Oriented Programming, OOP)과 클래스
 
 * 객체(object)란?
   - 사전적 의미: 의사나 행위가 미치는 대상
